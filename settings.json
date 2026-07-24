@@ -8,8 +8,8 @@
   "server": {
     "ip": "Poyraz222222.aternos.me",
     "port": 55345,
-    "version": "",
-    "try-creative": false
+    "version": "1.21",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
